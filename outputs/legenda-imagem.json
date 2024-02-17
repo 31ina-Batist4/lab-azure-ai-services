@@ -1,0 +1,14 @@
+	{
+  "apim-request-id": "6bd74b2a-f42f-4091-8a7a-0bc4ea173129",
+  "comprimento do conteúdo": "155",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "uma mulher com longos cabelos negros",
+    "confiança": 0,7586097717285156
+  },
+  "metadados": {
+    "largura": 360,
+    "altura": 372
+  }
+}

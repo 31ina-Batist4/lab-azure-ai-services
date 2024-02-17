@@ -1,0 +1,115 @@
+
+{
+  "apim-request-id": "b76baba0-7596-4e52-8ab9-fb4294d59871",
+  "comprimento do conteúdo": "1340",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "valores": [
+      {
+        "text": "algumas pessoas tirando uma selfie",
+        "confiança": 0,7833681702613831,
+        "boundingBox": {
+          "x": 0,
+          "s": 0,
+          "w": 1280,
+          "h": 960
+        }
+      },
+      {
+        "texto": "uma mulher com óculos escuros na cabeça",
+        "confiança": 0,8091887831687927,
+        "boundingBox": {
+          "x": 128,
+          "s": 137,
+          "w": 677,
+          "h": 804
+        }
+      },
+      {
+        "texto": "uma mulher usando óculos escuros e boné branco",
+        "confiança": 0,7863011956214905,
+        "boundingBox": {
+          "x": 730,
+          "s": 169,
+          "w": 529,
+          "h": 769
+        }
+      },
+      {
+        "text": "um close de uma pessoa usando óculos escuros",
+        "confiança": 0,8738037347793579,
+        "boundingBox": {
+          "x": 807,
+          "s": 360,
+          "w": 345,
+          "h": 184
+        }
+      },
+      {
+        "text": "uma pessoa usando óculos escuros",
+        "confiança": 0,7482901215553284,
+        "boundingBox": {
+          "x": 516,
+          "s": 133,
+          "w": 262,
+          "h": 158
+        }
+      },
+      {
+        "text": "uma mulher usando um colar",
+        "confiança": 0,8250325918197632,
+        "boundingBox": {
+          "x": 202,
+          "s": 529,
+          "w": 585,
+          "h": 421
+        }
+      },
+      {
+        "text": "close-up de um colar",
+        "confiança": 0,8454378247261047,
+        "boundingBox": {
+          "x": 402,
+          "s": 554,
+          "w": 245,
+          "h": 210
+        }
+      },
+      {
+        "texto": "uma pessoa usando chapéu branco e óculos escuros",
+        "confiança": 0,8421613574028015,
+        "boundingBox": {
+          "x": 734,
+          "s": 177,
+          "w": 453,
+          "h": 272
+        }
+      },
+      {
+        "texto": "um close de uma flor",
+        "confiança": 0,7359346151351929,
+        "boundingBox": {
+          "x": 155,
+          "s": 592,
+          "w": 56,
+          "h": 74
+        }
+      },
+      {
+        "texto": "um close do pescoço de uma mulher",
+        "confiança": 0,8932465314865112,
+        "boundingBox": {
+          "x": 754,
+          "s": 693,
+          "w": 515,
+          "h": 264
+        }
+      }
+    ]
+  },
+  "metadados": {
+    "largura": 1280,
+    "altura": 960
+  }
+}

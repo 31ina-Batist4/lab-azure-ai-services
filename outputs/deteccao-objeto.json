@@ -1,0 +1,56 @@
+{
+  "apim-request-id": "692818d2-256e-4dd4-a617-fba92caafa81",
+  "comprimento do conteúdo": "391",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadados": {
+    "largura": 1155,
+    "altura": 1155
+  },
+  "objetosResult": {
+    "valores": [
+      {
+        "boundingBox": {
+          "x": 113,
+          "s": 712,
+          "w": 267,
+          "h": 242
+        },
+        "Tag": [
+          {
+            "nome": "Roda de bicicleta",
+            "confiança": 0,612
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 567,
+          "s": 724,
+          "w": 267,
+          "h": 243
+        },
+        "Tag": [
+          {
+            "nome": "Roda",
+            "confiança": 0,643
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 96,
+          "s": 568,
+          "w": 759,
+          "h": 410
+        },
+        "Tag": [
+          {
+            "nome": "bicicleta",
+            "confiança": 0,91
+          }
+        ]
+      }
+    ]
+  }
+}
